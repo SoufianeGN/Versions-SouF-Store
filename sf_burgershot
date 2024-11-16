@@ -1,1 +1,1 @@
-{"version":"1.0.0", "note":"false", "update":"false"}
+{"version":"1.0.1", "note":"false", "update":"\nFix problem label showing undefined in shop\nFix error clearing stash in console in starting resource"}
