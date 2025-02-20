@@ -1,1 +1,1 @@
-{"version":"2.0.5", "note":"Important to update resource", "update":"\nFixed Salary Issue for Employees\nOptimized Door Closing Mechanism\nPackaging System Rework\nStash Clearing Fix for qb-inventory v2 Users"}
+{"version":"2.1.1", "note":"Important to update resource", "update":"\nFixed Salary Issue for Employees\nOptimized Door Closing Mechanism\nPackaging System Rework\nStash Clearing Fix for qb-inventory v2 Users\nFix issues qs-inventory && codem-inventory not detect slot item"}
