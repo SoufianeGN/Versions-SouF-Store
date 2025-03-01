@@ -1,1 +1,1 @@
-{"version":"1.0.3", "note":"false", "update":"false"}
+{"version":"1.0.3", "note":"important to update if you are using qbox framework", "update":"\nfix problem call framework object in Qbox"}
