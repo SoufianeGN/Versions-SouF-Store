@@ -1,1 +1,1 @@
-{"version":"2.2.5", "note":"Important to update resource", "update":"\nEnhanced Configuration Management\nResolved Outfit Menu UI Display Issue\nAdd to consumable items remove stress and add armor a option\nImprove Performance\nNew Inventorys Supported: (tgiann-inventory / core_inventory / origen_inventory)"}
+{"version":"2.3.0", "note":"", "update":"\nAdd support framework job system a option in sf_lib.\nFix problem can target from long distance with ox_target."}
