@@ -1,1 +1,1 @@
-{"version":"1.0.5", "note":"important to update if you are using qbox framework", "update":"\nfix problem call framework object in Qbox"}
+{"version":"1.1.0", "note":"Important this update", "update":"\nAdded support for selecting between the framework's job system and a custom job system in restaurant job configurations.\nFix issues auto detect Qbox framework.\nFix problem call object from Qbox framework.\nAdded some new functions in frameworks bridge."}
