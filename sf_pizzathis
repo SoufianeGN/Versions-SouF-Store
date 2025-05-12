@@ -1,1 +1,1 @@
-{"version":"1.0.5", "note":"Important to update to improve performance", "update":"\nEnhanced Configuration Management\nResolved Outfit Menu UI Display Issue\nAdded option add armor in consumable items\nImprove Performance"}
+{"version":"1.1.0", "note":"", "update":"\nAdd support framework job system a option in sf_lib.\nFix problem can target from long distance with ox_target."}
