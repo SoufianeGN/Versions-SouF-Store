@@ -1,1 +1,1 @@
-{"version":"1.1.0", "note":"", "update":"\nAdd support framework job system a option in sf_lib.\nFix problem can target from long distance with ox_target."}
+{"version":"1.1.5", "note":"", "update":"\nAdded an option to automatically detect the map being used for the job, eliminating the need for manual configuration.\nAdded support new inventory script (ak47_inventory).\nAdded support for new fuel scripts compatible with garage vehicle spawning.\nAdded support for new vehicle key scripts to automatically assign keys when a vehicle is spawned in the garage."}
