@@ -1,1 +1,1 @@
-{"version":"2.3.8", "note":"", "update":"\nShop improvements: When you're buying something, you no longer have to click add to basket multiple times for the same item. You can now specify the exact quantity you want to add in one go.\nFix leaderboard employees not ranking correctly in laptop.\nAdd missing words in locales."}
+{"version":"2.3.9", "note":"", "update":"\nAdded custom assets to Burger Shot.\nYou will automatically receive a new resource named [sf_burgershot_assets] containing these additions."}
