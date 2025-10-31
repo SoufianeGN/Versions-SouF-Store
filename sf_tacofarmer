@@ -1,2 +1,2 @@
 
-{"version":"1.0.0", "note":"", "update":""}
+{"version":"1.0.5", "note":"", "update":"\nFix issues in first time use script the shop loading stuck.\nSync duty system with framework duty system.\nAdded in prepare food you can configurable count receive item in one prepare.\nAdd remove key vehicle from spawner when vehicle return to garage by any employee.\nImprove performance."}
