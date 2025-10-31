@@ -1,1 +1,1 @@
-{"version":"2.3.9", "note":"", "update":"\nAdded custom assets to Burger Shot.\nYou will automatically receive a new resource named [sf_burgershot_assets] containing these additions."}
+{"version":"2.4.4", "note":"", "update":"\nFix issues in first time use script the shop loading stuck.\nSync duty system with framework duty system.\nAdded in prepare food you can configurable count receive item in one prepare.\nAdd remove key vehicle from spawner when vehicle return to garage by any employee.\nImprove performance."}
