@@ -1,1 +1,1 @@
-{"version":"1.2.3", "note":"", "update":"\nFix issues set livery not working in vehicles garage.\nAdd option to set color in vehicle in spawn garage.\nMove some functions to utils open file.\nAdd integrate jpr-inventory.\nFix error register stash with ak47_inventory users."}
+{"version":"1.2.4", "note":"", "update":"\nFix the issue where players can deliver the package at the starting door instead of the correct delivery point."}
