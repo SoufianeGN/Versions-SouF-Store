@@ -1,1 +1,1 @@
-{"version":"2.4.8", "note":"", "update":"\nAdded a option to make stock shop refill automatically each restart server.\nAdded a command to refill stock shop in game."}
+{"version":"2.4.9", "note":"Important to update also resource sf_burgershot_assets", "update":"\nAdded props to consumable items."}
