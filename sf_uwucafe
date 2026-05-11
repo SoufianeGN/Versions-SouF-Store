@@ -1,1 +1,1 @@
-{"version":"1.2.5", "note":"", "update":"\nAdded a option to make stock shop refill automatically each restart server.\nAdded a command to refill stock shop in game."}
+{"version":"1.2.6", "note":"Important to update also resource sf_uwucafe_assets", "update":"\nAdded props to consumable items."}
