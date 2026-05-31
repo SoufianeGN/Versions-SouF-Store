@@ -1,1 +1,1 @@
-{"version":"1.0.9", "note":"", "update":"\nAdded a option to make stock shop refill automatically each restart server.\nAdded a command to refill stock shop in game."}
+{"version":"1.1.0", "note":"Important to update also resource sf_pearls_assets", "update":"\nAdded props to consumable items."}
