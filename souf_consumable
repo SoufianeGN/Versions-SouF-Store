@@ -2,7 +2,8 @@
     "versions": {
         "1.0.0": "Initial release of the consumable system.",
         "1.0.1": "\n- Fixed ox_lib require error in ^1@souf_consumable/shared/locale.lua^3 (Escrow conflict resolved).",
-        "1.0.2": "\n- Fixed an issue where the dropdown menu appeared empty instead of rendering list items."
+        "1.0.2": "\n- Fixed an issue where the dropdown menu appeared empty instead of rendering list items.",
+        "1.0.3": "\n- qs-inventory Integration: Resolved an issue where inventory interactions were not functioning as expected. Restored full compatibility and stable operation."
     },
     "ADS": "^3[SHOWCASE]^7 🔥 Take your server's dining experience further!\n^2Check out our full Restaurant Management Script showcase:^7\n\n  ^3> Taco Farmer (Restaurant) :^7 ^1https://youtu.be/ndqqC8uCNJs^7\n  ^3> UwU Cat (Café)           :^7 ^1https://youtu.be/7FIcpL4h4VI^7\n  ^3> Bean Machine (Café)      :^7 ^1https://youtu.be/mgiuwyRfh0A^7\n  ^3> Pearls (Restaurant)      :^7 ^1https://youtu.be/tXwbsEcCmMU^7\n  ^3> Pizza This (Restaurant)  :^7 ^1https://youtu.be/dHmBdeVdSLE^7\n  ^3> Burgershot (Restaurant)  :^7 ^1https://youtu.be/oMYVRXM5huA^7"
 }
